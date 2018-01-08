@@ -1,0 +1,54 @@
+﻿  Texture.cpp
+  Shader.cpp
+  obj_loader.cpp
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\obj_loader.cpp(383): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  main.cpp
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(40): warning C4129: ':': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(43): warning C4129: ':': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(101): warning C4129: '/': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(131): warning C4091: 'static ': ignored on left of 'OsuFileParser' when no variable is declared
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\camera.h(206): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(154): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(166): warning C4018: '<=': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(189): warning C4018: '<=': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(260): warning C4018: '<': signed/unsigned mismatch
+  Window.cpp
+  transform.cpp
+  SurfScene.cpp
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(40): warning C4129: ':': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(43): warning C4129: ':': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(101): warning C4129: '/': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(131): warning C4091: 'static ': ignored on left of 'OsuFileParser' when no variable is declared
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\camera.h(206): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(154): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(166): warning C4018: '<=': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(189): warning C4018: '<=': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.cpp(54): warning C4244: 'argument': conversion from 'const ::size_t' to 'float', possible loss of data
+  SurfGame.cpp
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(40): warning C4129: ':': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(43): warning C4129: ':': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(101): warning C4129: '/': unrecognized character escape sequence
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(131): warning C4091: 'static ': ignored on left of 'OsuFileParser' when no variable is declared
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\osufileparser.h(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\camera.h(206): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(154): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(166): warning C4018: '<=': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(189): warning C4018: '<=': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\7000gaming\desktop\gp3_coursework\gp_cw\surfscene.h(260): warning C4018: '<': signed/unsigned mismatch
+  Mp3.cpp
+  HitsoundManager.cpp
+  Generating Code...
+  stb_image.c
+  GP_CW.vcxproj -> C:\Users\7000Gaming\Desktop\GP3_COURSEWORK\Debug\GP_CW.exe
